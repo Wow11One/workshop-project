@@ -37,5 +37,11 @@ fn greet(name: String, surname: String) -> String {
     return format!("{greeting}{name} {surname}!");
 }
 
+#[ic_cdk::query]
+fn number() -> u32 {
+    return 18;
+}
+
+
 // Export the interface for the smart contract.
 ic_cdk::export_candid!();

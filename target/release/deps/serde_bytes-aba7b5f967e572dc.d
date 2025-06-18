@@ -1,0 +1,12 @@
+/workspaces/workshop-project/target/release/deps/libserde_bytes-aba7b5f967e572dc.rmeta: /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.17/src/lib.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.17/src/bytearray.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.17/src/bytes.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.17/src/de.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.17/src/ser.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.17/src/bytebuf.rs
+
+/workspaces/workshop-project/target/release/deps/libserde_bytes-aba7b5f967e572dc.rlib: /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.17/src/lib.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.17/src/bytearray.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.17/src/bytes.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.17/src/de.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.17/src/ser.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.17/src/bytebuf.rs
+
+/workspaces/workshop-project/target/release/deps/serde_bytes-aba7b5f967e572dc.d: /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.17/src/lib.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.17/src/bytearray.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.17/src/bytes.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.17/src/de.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.17/src/ser.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.17/src/bytebuf.rs
+
+/usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.17/src/lib.rs:
+/usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.17/src/bytearray.rs:
+/usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.17/src/bytes.rs:
+/usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.17/src/de.rs:
+/usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.17/src/ser.rs:
+/usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.17/src/bytebuf.rs:

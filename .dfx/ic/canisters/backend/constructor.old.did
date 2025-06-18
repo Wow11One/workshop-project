@@ -1,0 +1,5 @@
+service : {
+  greet : (text, text) -> (text) query;
+  number : () -> (nat32) query;
+  set_greeting : (text) -> ();
+}
